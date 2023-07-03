@@ -3,6 +3,8 @@ from tkinter import ttk , messagebox
 from tkcalendar import DateEntry
 from PIL import ImageTk, Image
 
+import pandas as pd
+
 import customtkinter
 
 root = tk.Tk()
